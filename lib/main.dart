@@ -23,7 +23,7 @@ class MyHomePage extends StatelessWidget {
     return Scaffold(
       appBar: AppBar(),
       body: Center(
-        child: Text('Hello World !'),
+        child: Text('サンプルA'),
       ),
     );
   }
